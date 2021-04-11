@@ -17,5 +17,5 @@ Select Apply then Ok
 select Run -> Run name(name that was set in the application configuration)
 ```
 
-if everything worked correctly, a snake game window should appear.
+if everything worked correctly, a snake game window should appear.  
 ![Screenshot from 2021-04-11 17-24-36](https://user-images.githubusercontent.com/37542189/114310494-314c2d00-9aeb-11eb-8cf9-497fc3367cf4.png)
