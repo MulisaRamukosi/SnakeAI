@@ -3,7 +3,7 @@ Snake game that uses A* alogrithm to find the path to the apple and intelligentl
 ## SETUP
 ### Requirements
 - Java 8
-- IntelliJ IDEA 2020.3.3
+- latest IntelliJ IDEA
 ### How to run the project
 ```
 import project into Intellij
